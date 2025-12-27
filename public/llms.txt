@@ -1,6 +1,4 @@
-# קהילת איתי — Generative Engine Optimization Map
-
-> A פילנטרופיה ומיזמים חברתיים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About קהילת איתי
-קהילת איתי is a business in the פילנטרופיה ומיזמים חברתיים industry.
-
-## Target Audience
-נפגעי מלחמה, עמותות, ארגונים, חברות, תאגידים וגופים ציבוריים
-
-## Industry
-פילנטרופיה ומיזמים חברתיים
-
+## About Business
 ---
 
 # Additional Resources
