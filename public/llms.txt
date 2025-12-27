@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# קהילת איתי — Generative Engine Optimization Map
+
+> A פילנטרופיה ומיזמים חברתיים business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://kehilat-itay.zappy5.app
+https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com
 קרן פילנטרופיה לנפגעי מלחמה בישראל המתמקדת בריפוי והתחדשות דרך מיזמים חברתיים. הצטרפו למסע הריפוי שלנו.
 
 ### המיזמים שלנו
-https://kehilat-itay.zappy5.app/services
+https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/services
 גלו את המיזמים החברתיים של קהילת איתי - שותפות עם קרן בינלאומית לפרויקטים חברתיים המביאים ריפוי אמיתי לנפגעי מלחמה.
 
 ### אודות
-https://kehilat-itay.zappy5.app/about
+https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/about
 הכירו את קהילת איתי - קרן פילנטרופיה לנפגעי מלחמה בישראל המחויבת לריפוי והתחדשות דרך שותפויות בינלאומיות ומיזמים חברתיים.
 
 ### צור קשר
-https://kehilat-itay.zappy5.app/contact
+https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/contact
 צרו קשר עם קהילת איתי לקבלת מידע על מיזמים חברתיים, שותפויות בינלאומיות ומימון פרויקטים רפואיים וחברתיים לנפגעי מלחמה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://kehilat-itay.zappy5.app/privacy
+https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://kehilat-itay.zappy5.app/terms
+https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://kehilat-itay.zappy5.app/accessibility
+https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About קהילת איתי
+קהילת איתי is a business in the פילנטרופיה ומיזמים חברתיים industry.
+
+## Target Audience
+נפגעי מלחמה, עמותות, ארגונים, חברות, תאגידים וגופים ציבוריים
+
+## Industry
+פילנטרופיה ומיזמים חברתיים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://kehilat-itay.zappy5.app/sitemap.xml
-- **Robots.txt**: https://kehilat-itay.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/robots.txt
