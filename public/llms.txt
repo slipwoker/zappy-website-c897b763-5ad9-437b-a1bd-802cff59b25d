@@ -1,57 +1,47 @@
-# קהילת איתי — Generative Engine Optimization Map
-
-> A פילנטרופיה ומיזמים חברתיים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://-c897b763.zappy5.app
+https://example.com
 קרן פילנטרופיה לנפגעי מלחמה בישראל המתמקדת בריפוי והתחדשות דרך מיזמים חברתיים. הצטרפו למסע הריפוי שלנו.
 
 ### המיזמים שלנו
-https://-c897b763.zappy5.app/services
+https://example.com/services
 גלו את המיזמים החברתיים של קהילת איתי - שותפות עם קרן בינלאומית לפרויקטים חברתיים המביאים ריפוי אמיתי לנפגעי מלחמה.
 
 ### אודות
-https://-c897b763.zappy5.app/about
+https://example.com/about
 הכירו את קהילת איתי - קרן פילנטרופיה לנפגעי מלחמה בישראל המחויבת לריפוי והתחדשות דרך שותפויות בינלאומיות ומיזמים חברתיים.
 
 ### צור קשר
-https://-c897b763.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם קהילת איתי לקבלת מידע על מיזמים חברתיים, שותפויות בינלאומיות ומימון פרויקטים רפואיים וחברתיים לנפגעי מלחמה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-c897b763.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-c897b763.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-c897b763.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About קהילת איתי
-קהילת איתי is a business in the פילנטרופיה ומיזמים חברתיים industry.
-
-## Target Audience
-נפגעי מלחמה, עמותות, ארגונים, חברות, תאגידים וגופים ציבוריים
-
-## Industry
-פילנטרופיה ומיזמים חברתיים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-c897b763.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-c897b763.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
