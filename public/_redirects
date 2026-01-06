@@ -1,12 +1,23 @@
 # Clean URL redirects for Render static hosting
 # These rewrite rules show clean URLs to users while serving .html files
 
+/page-1766863282219  /page-1766863282219.html  200
 /services  /services.html  200
 /about  /about.html  200
 /contact  /contact.html  200
 /privacy  /privacy.html  200
 /accessibility  /accessibility.html  200
 /terms  /terms.html  200
+
+# Language slug rewrites for SEO
+/en/page-1766863282219  /en/page-1766863282219.html  200
+/en/services  /en/services.html  200
+/en/about  /en/about.html  200
+/en/contact  /en/contact.html  200
+/en/privacy  /en/privacy.html  200
+/en/accessibility  /en/accessibility.html  200
+/en/terms  /en/terms.html  200
+/en  /en/index.html  200
 
 # Legal pages - redirect old .html URLs to friendly URLs
 /privacy.html  /privacy  301

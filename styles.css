@@ -930,7 +930,8 @@ p {
 
   h1{font-size: 28px;
     margin-bottom: 1rem;
-    margin-top: 0.5rem; color: #1A1A1A;}
+    margin-top: 0.5rem; color: #1A1A1A;
+  font-weight: 700;}
 
   h2{font-size: 22px;
     margin-bottom: 1rem;
@@ -1077,7 +1078,8 @@ html[dir="ltr"] .whatsapp-float {
 }
 
 @media (max-width: 1024px) {
-  h1{font-size: 36px; color: #1A1A1A;}
+  h1{font-size: 36px; color: #1A1A1A;
+  font-weight: 700;}
   h2{font-size: 28px; color: #1A1A1A;}
   h3{font-size: 20px; color: #1A1A1A;}
   p { font-size: 15px; }
@@ -1106,7 +1108,8 @@ img, picture, figure {
   font-size: 2.5rem;
   margin-bottom: 1rem;
   color: inherit;
-}
+
+  font-weight: 700;}
 
 .legal-page-content .last-updated {
   color: #666;

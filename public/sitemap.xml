@@ -1,45 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com</loc>
-    <lastmod>2025-12-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/services</loc>
-    <lastmod>2025-12-27</lastmod>
+    <loc>https://kehilat-itay.zappy5.app/page-1766863282219</loc>
+    <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/page-1766863282219" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/page-1766863282219" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/page-1766863282219" />
   </url>
   <url>
-    <loc>https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/about</loc>
-    <lastmod>2025-12-27</lastmod>
+    <loc>https://kehilat-itay.zappy5.app/en/page-1766863282219</loc>
+    <lastmod>2026-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/page-1766863282219" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/page-1766863282219" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/page-1766863282219" />
   </url>
   <url>
-    <loc>https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/contact</loc>
-    <lastmod>2025-12-27</lastmod>
+    <loc>https://kehilat-itay.zappy5.app/services</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/services" />
+  </url>
+  <url>
+    <loc>https://kehilat-itay.zappy5.app/en/services</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/services" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/services" />
+  </url>
+  <url>
+    <loc>https://kehilat-itay.zappy5.app/about</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/about" />
+  </url>
+  <url>
+    <loc>https://kehilat-itay.zappy5.app/en/about</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/about" />
+  </url>
+  <url>
+    <loc>https://kehilat-itay.zappy5.app/contact</loc>
+    <lastmod>2026-01-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/contact" />
   </url>
   <url>
-    <loc>https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/privacy</loc>
-    <lastmod>2025-12-27</lastmod>
+    <loc>https://kehilat-itay.zappy5.app/en/contact</loc>
+    <lastmod>2026-01-06</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/contact" />
   </url>
   <url>
-    <loc>https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/terms</loc>
-    <lastmod>2025-12-27</lastmod>
+    <loc>https://kehilat-itay.zappy5.app/privacy</loc>
+    <lastmod>2026-01-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/privacy" />
   </url>
   <url>
-    <loc>https://zappy-site-c897b763-5ad9-437b-a1bd.onrender.com/accessibility</loc>
-    <lastmod>2025-12-27</lastmod>
+    <loc>https://kehilat-itay.zappy5.app/en/privacy</loc>
+    <lastmod>2026-01-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/privacy" />
+  </url>
+  <url>
+    <loc>https://kehilat-itay.zappy5.app/terms</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/terms" />
+  </url>
+  <url>
+    <loc>https://kehilat-itay.zappy5.app/en/terms</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/terms" />
+  </url>
+  <url>
+    <loc>https://kehilat-itay.zappy5.app/accessibility</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/accessibility" />
+  </url>
+  <url>
+    <loc>https://kehilat-itay.zappy5.app/en/accessibility</loc>
+    <lastmod>2026-01-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="he" href="https://kehilat-itay.zappy5.app/accessibility" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://kehilat-itay.zappy5.app/en/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://kehilat-itay.zappy5.app/accessibility" />
   </url>
 </urlset>
